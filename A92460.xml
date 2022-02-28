@@ -1,0 +1,186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Propositions from the Right Honourable the Commissioners of the kingdome of Scotland, to the Kings Most Excellent Majesty In the name of themselves, and all the commons of that nation; concerning His Majesties Royall Person, Crown, and Dignity; as also, touching the weakning of His Majesties power, and Authority Royall. With the proceedings of the Commons of England thereupon.</title>
+            <title>Proceedings</title>
+            <author>Scotland. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92460</idno>
+            <idno type="STC">Wing S1002I</idno>
+            <idno type="STC">Thomason E431_11</idno>
+            <idno type="STC">ESTC R206107</idno>
+            <idno type="EEBO-CITATION">99895394</idno>
+            <idno type="PROQUEST">99895394</idno>
+            <idno type="VID">152984</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92460)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152984)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2338:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Propositions from the Right Honourable the Commissioners of the kingdome of Scotland, to the Kings Most Excellent Majesty In the name of themselves, and all the commons of that nation; concerning His Majesties Royall Person, Crown, and Dignity; as also, touching the weakning of His Majesties power, and Authority Royall. With the proceedings of the Commons of England thereupon.</title>
+                  <title>Proceedings</title>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by I.C. for G. Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLII. [1642] [i.e. 1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint false.</note>
+                  <note>The year is given according to Lady Day dating.</note>
+                  <note>Annotation on Thomason copy: "March 8th 1647".</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament. --  House of Commons --  Early works to 1800.</term>
+               <term>Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Scotland --  Foreign Relations --  England --  Early works to 1800.</term>
+               <term>England --  Foreign Relations --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152984:1"/>
+            <!-- PDF PAGE 96 -->
+            <p>PROPOSITION'S From the Right Honourable the COMMISSIONERS OF THE KINGDOME OF SCOTLAND, <hi>TO The Kings moſt Excellent Majeſty.</hi>
+            </p>
+            <p>IN The Name of themſelves, and all the COMMONS of that NATION; <hi>CONCERNING</hi> His Majeſties Royall Perſon, Crown, and Dignity; as alſo, touching the weakning of His Majeſties power, and Authority Royall.</p>
+            <p>
+               <hi>With the proceedings of the</hi> Commons <hi>of</hi> England <hi>thereupon.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>I. C.</hi> for <hi>G. Horton,</hi> MDCXLII.</p>
+            <pb facs="tcp:152984:2"/>
+            <!-- PDF PAGE 97 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="propositions">
+            <pb facs="tcp:152984:3"/>
+            <!-- PDF PAGE 98 -->
+            <pb n="1" facs="tcp:152984:3" rendition="simple:additions"/>
+            <!-- PDF PAGE 98 -->
+            <head>TO THE KINGS MOST EXCELLENT MAJESTIE <hi>The humble Propoſals of the</hi> Commiſſio<g ref="char:EOLhyphen"/>ners <hi>of Your Majeſties</hi> Kingdome of Scotland.</head>
+            <opener>
+               <salute>Moſt gracious Soveraign,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>EE your Majeſties humble and faithfull Sub<g ref="char:EOLhyphen"/>jects, conſidering that the mutuall relation betwixt your Majeſties Kingdomes of <hi>Scot<g ref="char:EOLhyphen"/>land</hi> and <hi>England,</hi> is ſuch that they muſt ei<g ref="char:EOLhyphen"/>ther ſtand or fall together, and the diſtur<g ref="char:EOLhyphen"/>bance of the one, muſt needs diſquiet and di<g ref="char:EOLunhyphen"/>ſtemper the Peace of the other, as hath, been often acknowledged by them both and eſpe<g ref="char:EOLhyphen"/>cially in the late treaty, which is ratified in <hi>Parliament,</hi> and confir<g ref="char:EOLhyphen"/>med by the publike Faith of the Eſtates of your ancient and native
+<pb n="2" facs="tcp:152984:4"/>
+               <!-- PDF PAGE 99 -->Kingdom of <hi>Scotland,</hi> ſo that they are bound to maintain the peace and liberties of one another, being highly concerned therein, as the aſſured means of the ſafety and preſervation of their owne, and fin<g ref="char:EOLhyphen"/>ding our ſelves warranted and obliged, by all meanes to labour to keep a right underſtanding betwixt your Majeſty, and your peo<g ref="char:EOLhyphen"/>ple: to confirme that brotherly affection begun betwixt the two Nations: to advance their Unity by all ſuch wayes as may tend to the glory of God, and peace of the Church and State of both king<g ref="char:EOLhyphen"/>domes; and likewiſe to proffer our ſervice for the removing all Jea<g ref="char:EOLhyphen"/>louſies, and miſtakings which may ariſe betwixt your Majeſty and this Kingdome, and our beſt endeavours for the better eſtabliſh<g ref="char:EOLhyphen"/>ment of the affairs and quiet of the ſame.</p>
+            <p>That both your Majeſties Kingdoms of <hi>Scotland</hi> and <hi>England,</hi> may be united in the enjoying of their liberties in peace under your Maieſties ſcepter, which is the moſt aſſured foundation of your Ma<g ref="char:EOLhyphen"/>ieſties honour and greatneſſe, and of the ſecurity of your Royall Perſon, Crown, and Dignity. We have taken the boldneſſe to ſhew to your Maieſty, <hi>viz.</hi>
+            </p>
+            <p n="1">I. That we are heartily ſorry and grieved to behold theſe diſtra<g ref="char:EOLhyphen"/>ctions which encreaſe dayly betwixt your Maieſty and your peo<g ref="char:EOLhyphen"/>ple, and which we conceive are entertained by the wicked plots and practiſes of Papiſts and their Adherents, whoſe aym in all theſe troubles hath been not only to prevent all further Reformation, but alſo to ſubvert the purity and truth of Religion, within all your Maieſties Kingdoms.</p>
+            <p>For which end, their conſtant endeavours have been to ſtirre up diviſions betwixt your Maieſty and your people, by their queſti<g ref="char:EOLhyphen"/>oning the Authority of <hi>Parliament,</hi> and the lawfull liberties of the ſubiects, and really weakning your Maieſties power, and Authority Royall, upon pretence of extending the ſame, whereof by Gods pro<g ref="char:EOLhyphen"/>vidence being diſappointed in your Maieſties Kingdom of <hi>Scotland,</hi> they have now converted their miſchievous Councels, Conſpira<g ref="char:EOLhyphen"/>cies, and Attempts, to produce theſe diſtempers in your Maieſties Kingdom of <hi>England and Ireland,</hi>
+            </p>
+            <pb n="3" facs="tcp:152984:4"/>
+            <!-- PDF PAGE 99 -->
+            <p n="2">II. And therefore according to our duty to your Maieſty, to teſtifie our Brotherly affection to this Kingdom, and acquit our ſelves of the truſt impoſed upon Us, we do make offer of our humble Endea<g ref="char:EOLhyphen"/>vours for compoſing of theſe differences, and to that purpoſe do be<g ref="char:EOLhyphen"/>ſeech your Maieſty in theſe extremities, to have recourſe to the ſound and faithfull adviſe of your great Councell, and to repoſe thereupon as the only aſſured and happy means to eſtabliſh the pro<g ref="char:EOLhyphen"/>ſperity and quiet of this Kingdom, and in the depth of your Royall Wiſedome, to conſider and prevent theſe apprehenſions of Feare, which may poſſeſſe the hearts of your Maieſties ſubiects in your o<g ref="char:EOLhyphen"/>ther Kingdoms, if they ſhall conceive the Authority of <hi>Parliaments</hi> and the Rights and Liberties of the ſubiects, to be here called in queſtion.</p>
+            <p n="3">III. And we are confident, if your Maieſty ſhall be graciouſly pleaſed to take in good part, and give eare to theſe our faithfull and humble deſires, that the ſucceſſe of your Maieſties affaires, howſoever now perplexed, ſhall be happy to your Maieſty, and Joyfull to all your people, over whom that your May long and proſperous Reigne, is the conſtant and fervent prayer of Us your Maieſties faithfull ſub<g ref="char:EOLhyphen"/>iects, and ſervants.</p>
+            <p>Theſe Propoſals were agreed upon, and aſſen<g ref="char:EOLhyphen"/>ted to, by the Repreſentative Councell of <hi>Scotland,</hi> in the Name of themſelves, and all the Commoners of that Nation.</p>
+         </div>
+         <div type="answer">
+            <pb n="4" facs="tcp:152984:5"/>
+            <!-- PDF PAGE 100 -->
+            <head>The Anſwer of the Commoners of <hi>England,</hi> to the Propoſals and Deſires of the Com<g ref="char:EOLhyphen"/>miſſioners of Scotland, preſented to the Kings moſt Excellent Majeſty.</head>
+            <p>THE Houſe of Commons are very ſenſible, and do tenderly &amp; affectionately conſider, that this your dutifull and faithfull ad<g ref="char:EOLhyphen"/>viſe, is a large teſtimony of your fidelity to the King, affection to this State, and of Wiſedome, for honour, ſecurity, and peace of his Maje<g ref="char:EOLhyphen"/>ſty, and both Kingdoms, and not only very acceptable to this houſe but likewiſe of great advantage to both Nations.</p>
+            <p>They cleerly perceive, you rightly underſtand the cauſes of our di<g ref="char:EOLhyphen"/>ſtempers, and your carefull endeavours to comply with them in the quieting and removing of the ſame: That the Brotherly communi<g ref="char:EOLhyphen"/>on lately confirmed by both <hi>Parliaments of England and Scotland,</hi> bind them both to maintain the peace and liberties of one another, being highly concerned equally therein, as the aſſured meanes of the ſafety and preſervation of both, and being ſo united, the diſturbance of the one muſt needs diſquiet and diſtemper the peace of the o<g ref="char:EOLhyphen"/>ther, as hath been acknowledged by them both.</p>
+            <p>They are likewiſe ſenſible that thoſe wayes which you in your wiſedoms have adviſed his Maieſty to take, are the onely meanes to ſettle peace and unity in this Kingdom, which are:</p>
+            <p n="1">I. To endeavour to procure a right underſtanding between his Ma<g ref="char:EOLhyphen"/>jeſty and his people, by which his Maieſty may truly underſtand the reall cauſes of theſe diſturbances, and who are the Authors thereof, who are his faithfull and loyall ſubjects, who are his faithfull and dutifull Councellours, and who not: by this meanes ſhall the bro<g ref="char:EOLhyphen"/>therly affection begun betwixt the two Nations be confirmed by all ſuch meanes, as may tend to the glory of God, and peace of the
+<pb n="5" facs="tcp:152984:6"/>
+               <!-- PDF PAGE 101 -->Church and ſtate of both Kingdoms, will their unity be advanced, and all miſtakes and Jealouſies which may ariſe betwixt his Maie<g ref="char:EOLhyphen"/>ſty and this Kingdom be removed, and the eſtabliſhment of the af<g ref="char:EOLhyphen"/>fairs and quiet of the ſame, ſetled in ſuch a manner as may bee the perpetuall peace and tranquility of the ſame, the liberties and privi<g ref="char:EOLhyphen"/>ledges of his Maieſties ſubiects freely enioyed under his Royall ſce<g ref="char:EOLhyphen"/>pter, which is the moſt aſſured Foundation of his Maieſties Honour, and Greatneſſe, of the ſecurity of His Royall Perſon, Crowne, and Dignity.</p>
+            <p n="2">II. The removall and prevention of all ſuch plots and practiſes which they conceive are enterained by the Papiſts and their Adhe<g ref="char:EOLhyphen"/>rents, whoſe ayme in all theſe troubles hath been not only to pre<g ref="char:EOLhyphen"/>vent all further Reformation, but alſo to ſubvert the purity and truth of Religion within all His Maieſties Kingdomes, For which end, their conſtant endeavours have been to ſtir up diviſion betwixt His <hi>Majeſty</hi> and His <hi>People,</hi> by their queſtioning the Authority of <hi>Parliaments,</hi> and the lawfull liberties of the ſubiects, and really weakning His <hi>Majeſties power and Authority Royall,</hi> upon pretence of defending the ſame, which miſchievous Councels, Conſpiracies, and Attempts, hath produced theſe diſtempers in His <hi>Majeſties</hi> Kingdomes of <hi>England</hi> and <hi>Ireland.</hi>
+            </p>
+            <p n="3">III. That His <hi>Majeſty</hi> would be pleaſed to have recourſe onely to the ſound and faithfull adviſe of His <hi>Parliament,</hi> and to depend there<g ref="char:EOLhyphen"/>upon as the aſſured and happy means to eſtabliſh the proſperity &amp; quiet of this Kingdome, and in His Royall wiſdome to conſider &amp; prevent theſe apprehenſions of feare which may poſſeſſe the hearts of His <hi>Majeſties</hi> ſubiects in His <hi>Majeſties</hi> other Kingdoms, if they ſhall conceive the Authority of <hi>Parliaments,</hi> and the Rights and li<g ref="char:EOLhyphen"/>berties of the ſubiects, &amp;c</p>
+            <p>Theſe your faithfull and loyall propoſitions is the greateſt de<g ref="char:EOLhyphen"/>monſtrations of your affections, faithfully united and devoted to the ſecurity of His <hi>Majeſty,</hi> and your hearey wiſhes and deſires of the
+<pb n="6" facs="tcp:152984:6"/>
+               <!-- PDF PAGE 101 -->peace and proſperity, aſwell of His <hi>Majeſties</hi> Kingdom of <hi>England.</hi> as <hi>Scotland and Ireland:</hi> theſe <hi>Propoſitions</hi> have been the onely en<g ref="char:EOLhyphen"/>deavours and intentions of His <hi>Majeſties</hi> High Court of <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi> to effect and make manifeſt to all men: And in any other means whatſoever that ſhall by you be conceived neceſſary to the compoſing and ſetling of theſe preſent diſtractions, they declare themſelves deſirous to have the ſame communicated unto them, and they ſhall be right Joyfull and thankfull therefore, and will wil<g ref="char:EOLhyphen"/>lingly and cheerfully joyn with you in the ſame.</p>
+         </div>
+         <div type="order_to_communicate">
+            <p>
+               <hi>IT was Ordred by the Honourable Houſe of Commons, that this Anſwer ſhould be communicated to the Commiſsioners of the Kingdome of</hi> Scotland.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
